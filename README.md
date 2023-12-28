@@ -22,6 +22,6 @@ Com uma sólida carreira de mais de duas décadas na área de Tecnologia da Info
 
 
 <div align = "left">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfranca&show_icons=true&theme=bear&count_private=true"/>
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=agfranca&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfranca&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=agfranca&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
